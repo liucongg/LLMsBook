@@ -9,7 +9,7 @@
 - [第6章](RolePlayProj/README.md): 基于Baichuan的角色扮演模型微调实战
 - [第7章](DiaEleExtraProj/README.md): 基于Qwen的对话要素抽取模型微调实战
 - [第9章](README.md): 基于BGE模型的向量微调实战  & 基于ChatGLM3知识库答案生成任务的微调实战
-- [第10章](README.md): 基于Langchain构建AutoGPT
+- [第10章](autogpt_langchain/README.md): 基于Langchain构建AutoGPT实战
 
 
 ## 勘误
