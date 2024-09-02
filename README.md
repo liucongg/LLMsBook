@@ -3,12 +3,12 @@
 本项目为书籍《大型语言模型实战指南：应用实践与场景落地》实战部分代码汇总。
 
 ## 项目介绍
-
+- [第2章](): [tokenizer训练方法](tokenizerTask/README.md) 和 [基于PEFT的Llama模型微调实战](LlamaFinetuneProj/README.md)
 - [第3章](README.md): 基于DPO的偏好对齐实战
-- [第5章](README.md): 基于DeepSeek Coder的SQL微调实战
+- [第5章](SQLGenProj/README.md): 基于DeepSeek Coder的SQL微调实战
 - [第6章](RolePlayProj/README.md): 基于Baichuan的角色扮演模型微调实战
 - [第7章](DiaEleExtraProj/README.md): 基于Qwen的对话要素抽取模型微调实战
-- [第9章](README.md): 基于BGE模型的向量微调实战  & 基于ChatGLM3知识库答案生成任务的微调实战
+- [第9章](): [基于BGE模型的向量微调实战](RagProj/bge-finetune/README.md)  & [基于ChatGLM3知识库答案生成任务的微调实战](RagProj/chatglm3-finetune/README.md) & [基于Streamlit的知识库答案应用搭建](RagProj/service/README.md)
 - [第10章](autogpt_langchain/README.md): 基于Langchain构建AutoGPT实战
 
 

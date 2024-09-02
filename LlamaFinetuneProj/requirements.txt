@@ -1,0 +1,5 @@
+datasets==2.18.0
+loguru==0.7.2
+peft==0.11.0
+torch==2.1.2
+transformers==4.44.2
