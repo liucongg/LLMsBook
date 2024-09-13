@@ -4,7 +4,7 @@
 
 ## 项目介绍
 - [第2章](): [tokenizer训练方法](tokenizerTask/README.md) 和 [基于PEFT的Llama模型微调实战](LlamaFinetuneProj/README.md)
-- [第3章](README.md): 基于DPO的偏好对齐实战
+- [第3章](DPOProj/README.md): 基于DPO的偏好对齐实战
 - [第5章](SQLGenProj/README.md): 基于DeepSeek Coder的SQL微调实战
 - [第6章](RolePlayProj/README.md): 基于Baichuan的角色扮演模型微调实战
 - [第7章](DiaEleExtraProj/README.md): 基于Qwen的对话要素抽取模型微调实战
